@@ -39,7 +39,7 @@ main {
     position: relative;
     transition: all 400ms ease;
     transform-style: preserve-3d;
-    background-color: #ccc;
+    background-color: #ffffff;
   }
   
   .face {
@@ -48,7 +48,7 @@ main {
     position: absolute;
     background-size: cover;
     background-position: center;
-    border: 5px solid #00b5cc;
+    border: 5px solid #1f00cc;
     border-radius: 5px;
     transition: all 400ms ease;
   }
